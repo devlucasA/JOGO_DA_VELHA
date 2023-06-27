@@ -1,5 +1,0 @@
-Claudiney,50,0
-Maria,7,3
-Joao Henrique,2,20
-Fulano,0,37
-
